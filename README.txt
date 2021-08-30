@@ -1,4 +1,4 @@
-This is tweetapp where user can post/view/delete tweets.
+This is tweetapp where user can post/view/delete/reply tweets.
 
 Tech used -
  
